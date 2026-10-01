@@ -1,0 +1,27 @@
+# Keep study data and generated research artifacts out of this code-only repository.
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.rds
+*.RData
+*.pdf
+*.docx
+*.zip
+*.7z
+*.tar
+*.gz
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+.DS_Store
+__pycache__/
+*.pyc
+data/
+results/
+MS_result/
+结果V1/
